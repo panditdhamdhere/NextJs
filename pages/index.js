@@ -29,19 +29,19 @@ export default function Home() {
         <div className="blogs">
         <h2>Popular Blogs</h2>
           <div className="blogItem">
-            <h3>How to learn NextJS in 2023</h3>
+            <h3>How to learn NextJS in 2023 ?</h3>
             <p>Next Js is a great JavaScript Framework</p>
           </div>
         </div>
         <div className="blogs">
           <div className="blogItem">
-            <h3>How to learn NextJS in 2023</h3>
+            <h3>How to learn NextJS in 2023 ?</h3>
             <p>Next Js is a great JavaScript Framework</p>
           </div>
         </div>
         <div className="blogs">
           <div className="blogItem">
-            <h3>How to learn NextJS in 2023</h3>
+            <h3>How to learn NextJS in 2023 ?</h3>
             <p>Next Js is a great JavaScript Framework</p>
           </div>
         </div>
